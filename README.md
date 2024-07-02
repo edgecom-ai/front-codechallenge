@@ -1,4 +1,4 @@
-# Code Challenge
+# Frond End Developer - Code Challenge
 
 As a front-end developer, you must do a code challenge. You have 3 options:
 

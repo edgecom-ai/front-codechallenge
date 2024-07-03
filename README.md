@@ -13,11 +13,11 @@ Develop a dashboard to manage articles with these rules:
 
 - There is no API. You have to mock the API in a separate layer in the code. So, we can replace it with a real API without touching other parts of your code.
 - The edit page and Delete confirmation dialog need to be included.
-- Remember, these are just wireframes to show you the requirements and boundaries of work, but the design is totally up to you.
 - You must check user mistakes on filling in forms (like email address, required fields, etc.).
 - Protected pages should not be available for guest users.
 - Wysiwyg editor is not required.
 - Tags field is a combobox which you can select some tags or use custom tags.
+- Design them based on your assumption
 
 ## Task 2
 

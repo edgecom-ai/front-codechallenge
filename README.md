@@ -12,7 +12,6 @@ Depending on your choice and the result we evaluate your expertise and seniority
 Develop a dashboard to manage articles with these rules:
 
 - There is no API. You have to mock the API in a separate layer in the code. So, we can replace it with a real API without touching other parts of your code.
-- You can find the wireframes of the pages below.
 - The edit page and Delete confirmation dialog need to be included.
 - Remember, these are just wireframes to show you the requirements and boundaries of work, but the design is totally up to you.
 - You must check user mistakes on filling in forms (like email address, required fields, etc.).

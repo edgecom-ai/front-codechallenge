@@ -1,52 +1,33 @@
-# Frond End Developer - Code Challenge
+# Data Table
+## This is a Data Table built with React.js.
 
-As a front-end developer, you must do a code challenge. You have 3 options:
+### Features:
+* Support for TypeScript.
+* Users can search and filter rows.
+* Ability to select and set the page size.
+* Option to update the app's theme.
+* Support for column customization.
+* Responsive design.
+* Support for sorting fields; users can click on the table header to sort fields.
 
-- Do task 1 (Article Management System).
-- OR do task 2 (Data Table Component).
+## Technical Stack
+* Frontend: react 18.3.1
+* Node : v20.13.1
+* State Management: Utilized React hooks and the context API.
+* Styling: Employed Reactstrap and Material UI.
+## Demo
+You can find a live demo of the application here.
 
-Depending on your choice and the result we evaluate your expertise and seniority.
+### https://nidhinajustin.github.io/dataTable/
+## Installation
+To run this project locally, follow these steps:
 
-## Task 1
-
-Develop a dashboard to manage articles with these rules:
-
-- There is no API. You have to mock the API in a separate layer in the code. So, we can replace it with a real API without touching other parts of your code.
-- The edit page and Delete confirmation dialog need to be included.
-- You must check user mistakes on filling in forms (like email address, required fields, etc.).
-- Protected pages should not be available for guest users.
-- Wysiwyg editor is not required.
-- Tags field is a combobox which you can select some tags or use custom tags.
-- Design them based on your assumption
-
-## Task 2
-
-Write a data table component with these features:
-
-- Support TypeScript.
-- Support pagination.
-- Support page size.
-- Support simple search (so we can just type a query and filter rows).
-- Support column customization.
-- Support sort fields.
-- Support dark mode.
-- Write some examples to show your component’s features.
-
-## General Requirements
-
-- Use ReactJS
-- Write necessary tests, but not with high coverage.
-- Remove all unused codes if you use a boilerplate or framework.
-- Write an instruction to run the project.
-- All pages and components should be responsive.
-- Do anything else that can impress us, but don’t overwork.
-- You should use a linter like PrettierJS or any others.
-- Don’t commit the .vscode or .idea directory.
-- Mention the required NodeJS version
-  
-### Deliverables for the Code Challenge
-- Code and Documentation: Include all code and documentation necessary to reproduce the experiments and results.
-  
-### Submission
-- Please submit a GitHub link with your work and fork the repository for collaboration.
-- You have 1 week to send the challenge!
+* Clone the repository:
+   git clone https://github.com/NidhinaJustin/dataTable.git
+* Navigate to the project directory :
+   cd dataTable
+* Install dependencies
+ :  npm install
+# Usage
+* Once the installation is complete, you can start the development server
+:  npm start
